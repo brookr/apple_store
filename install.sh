@@ -2,7 +2,7 @@
 mkdir -p _work
 cd _work
 
-## Retrieve Git
+## Retrieve Git from The Internet
 # curl -Ov http://git-osx-installer.googlecode.com/files/git-1.6.1.1-intel-leopard.dmg
 cp ../../git.dmg ./git-1.6.1.1-intel-leopard.dmg
 
